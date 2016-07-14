@@ -34,9 +34,9 @@ VII. Bold
 
 IIX. Black
 
-IX. Perspective
+IX. Distorted
 
-X. Distorted
+X. Pure Persian
 
 
 Persian (Arabic) typefaces are very poor when it comes to fantasy or display ones. Especially Google Fonts doesn’t have a lot of them.
