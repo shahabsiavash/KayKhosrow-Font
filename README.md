@@ -1,4 +1,4 @@
-# Siavash-Font
+# KayKhosrow-Font
 New Persian-Latin Font by Shahab Siavash
 
 Hello,
@@ -18,6 +18,7 @@ So, I decided to do something about this and I realized that I should change the
 4- I also wanted to do this in an isometric and monospaced style. There are no angles except 90 degrees. I too, changed some of the Latin letters to reach this goal. (I want to mention that this is a new style to design Persian fonts and can be improved or changed through time by others in different ways.)
 
 5- And to complete the fantasy, the typeface comes with 10 different weights! It enables the user to have a good experience with the typeface. The weights are:
+
 I. Light 
 
 II. Italic (For LTR)
@@ -34,13 +35,25 @@ VII. Bold
 
 IIX. Black
 
-IX. Distorted
+IX. Inline
 
 X. Pure Persian
 
+Plus: 4 ttf "Color Fonts" (layers, COLR, SVG, sbix)
 
-Persian (Arabic) typefaces are very poor when it comes to fantasy or display ones. Especially Google Fonts doesn’t have a lot of them.
-I hope it can be a good candidate to be in the GF.
+ICYDN: http://blog.fontlab.com/font-tech/color-fonts/color-font-format-proposals/
+
+
+This font and its styles are pioneers in some aspects:
+
+- The first Persian-Latin font that brings axactly similar glyphs for the 2 languages.
+- The first Persian font with separated (detached) glyphs. 
+- The first Persian font with 10 different styles.
+- The first Persian font with a "Pure Persian" style, which you can wrtie Pinglish or Persian in a new way.
+- The First Persian font that suggest a color font.
+
+Persian (Arabic) typefaces are very poor when it comes to styles and creativity. Unfortunately, Google Fonts doesn’t have a lot of them.
+I hope this can be a good candidate to be in the GF.
 
 Thanks for reading this,
 
