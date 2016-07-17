@@ -52,6 +52,8 @@ This font and its styles are pioneers in some aspects:
 - The first Persian font with a "Pure Persian" style, which you can wrtie Pinglish or Persian in a new way.
 - The First Persian font that suggest a color font.
 
+And of course a neat monospaced isometric Latin font with 10 styles and 4 versions of a color font is included.
+
 Persian (Arabic) typefaces are very poor when it comes to styles and creativity. Unfortunately, Google Fonts doesn’t have a lot of them.
 I hope this can be a good candidate to be in the GF.
 
