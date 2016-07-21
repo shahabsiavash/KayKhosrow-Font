@@ -1,5 +1,5 @@
 # KayKhosrow-Font
-New Persian-Latin Font by Shahab Siavash
+New Persian[Arabic]-Latin Font by Shahab Siavash
 
 Hello,
 First, I want to mention that I am a graphic designer and typographer. I was writing articles and books in the past few years about graphic and type design. Being awarded as a critic and have had several exhibitions in Iran and other countries. I’m usually into designing new modern Persian fonts, you may call them “fantasy” or “display” or… The name is not important. My well-known typeface was the first Persian grunge typeface (2005) which was featured on Behance in 2009 and has been published in books and websites.
@@ -37,24 +37,28 @@ IIX. Black
 
 IX. Inline
 
-X. Pure Persian
+X. Pure Persian*
 
-Plus: 4 ttf "Color Fonts" (layers, COLR, SVG, sbix)
+* Pure Persian style only produces pure Persian letters and also replaces Latin letters with phonetic ones, enabling all Persian people to write Persain words with Latin letters.
+
+Plus: A "Color Font" (4 TTF file: Layers, COLR, SVG, sbix)
 
 ICYDN: http://blog.fontlab.com/font-tech/color-fonts/color-font-format-proposals/
 
+I did metrics, kerning and hinting for all of them. 2 styles support Stylistic Alternates {salt}.
 
 This font and its styles are pioneers in some aspects:
 
 - The first Persian-Latin font that brings axactly similar glyphs for the 2 languages.
-- The first Persian font with separated (detached) glyphs. 
-- The first Persian font with 10 different styles.
+- The first Persian font with totally new detached glyphs. 
+- The first Persian font with 10+1 different styles.
 - The first Persian font with a "Pure Persian" style, which you can wrtie Pinglish or Persian in a new way.
-- The First Persian font that suggest a color font.
+- The First Persian color font.
 
 And of course a neat monospaced isometric Latin font with 10 styles and 4 versions of a color font is included.
 
-Persian (Arabic) typefaces are very poor when it comes to styles and creativity. Unfortunately, Google Fonts doesn’t have a lot of them.
+Persian (Arabic) typefaces are very poor when it comes to styles and modernity. Unfortunately, Google Fonts doesn’t have a lot of them, too.
+
 I hope this can be a good candidate to be in the GF.
 
 Thanks for reading this,
@@ -63,4 +67,6 @@ Shahab Siavash , 2016
 
 Google+ Profile: 
 https://www.google.com/+ShahabSiavash
+
+Microsoft Vendor ID: SHS
 
