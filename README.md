@@ -1,6 +1,9 @@
 # KayKhosrow-Font
 New Persian[Arabic]-Latin Font by Shahab Siavash
 
+"KayKhosrow" is a legendary king of the Kayanian dynasty and a character in the Persian epic book, Shahnameh. He was the son of the Iranian prince "Siavash" :)
+
+
 Hello,
 
 First, I want to mention that I am a graphic designer and typographer. I was writing articles and books in the past few years about graphic and type design. Being awarded as a critic and have had several exhibitions in Iran and other countries. I’m usually into designing new modern Persian fonts, you may call them “fantasy” or “display” or… The name is not important. My well-known typeface was the first Persian grunge typeface (2005) which was featured on Behance in 2009 and has been published in books and websites.
