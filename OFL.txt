@@ -1,10 +1,4 @@
-Copyright (c) 2016
-
-Copyright Holder: Shahab Siavash, www.shahabsiavash.com , shahab.siavash@gmail.com
-
-Reserved Font Family Name: KayKhosrow (Light, Italic, Oblique, Outline, Round, Smooth, Bold, Black, Inline, Pure Persian + 4 ttf "Color Font": Layers, COLR, SVG, sbix)
-
-
+Copyright 2016 Shahab Siavash (shahab.siavash@gmail.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
