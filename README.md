@@ -37,7 +37,7 @@ VI. KayKhosrowInline [Regular]
 
 VII. KayKhosrowPurePersian* [Regular]
 
-* Pure Persian style only produces pure Persian letters and also replaces Latin letters with phonetic ones, enabling all Persian people to write Persain words with Latin letters.
+*Pure Persian style only produces pure Persian letters and also replaces Latin letters with phonetic ones, enabling all Persian people to write Persain words with Latin letters.
 
 AND: A "Color Font" (4 TTF files: Layers, COLR, SVG, sbix)
 
