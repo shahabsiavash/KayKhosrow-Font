@@ -21,27 +21,21 @@ So, I decided to do something about this and I realized that I should change the
 
 4- I also wanted to do this in an isometric and monospaced style. There are no angles except 90 degrees. I too, changed some of the Latin letters to reach this goal. (I want to mention that this is a new style to design Persian fonts and can be improved or changed through time by others in different ways.)
 
-5- And to complete the fantasy, the typeface comes with 10 different weights! It enables the user to have a good experience with the typeface. The weights are:
+5- And to complete the fantasy, the typeface comes with 7 different families and 12 styles! It enables the user to have a good experience with the type. The families and subfamilies are:
 
-I. Light 
+I. KayKhosrow [Regular, Italic, Bold, Black, BoldItalic, BlackItalic]
 
-II. Italic (For LTR)
+II. KayKhosrowOblique [Regular]
 
-III. Oblique (For RTL)
+III. KayKhosrowOutline [Regular]
 
-IV. Outline 
+IV. KayKhosrowRound [Regular]
 
-V. Round
+V. KayKhosrowSmooth [Regular]
 
-VI. Smooth
+VI. KayKhosrowInline [Regular]
 
-VII. Bold
-
-IIX. Black
-
-IX. Inline
-
-X. Pure Persian*
+VII. KayKhosrowPurePersian* [Regular]
 
 * Pure Persian style only produces pure Persian letters and also replaces Latin letters with phonetic ones, enabling all Persian people to write Persain words with Latin letters.
 
