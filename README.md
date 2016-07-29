@@ -49,7 +49,7 @@ This font and its styles are pioneers in some aspects:
 
 - The first Persian-Latin font that brings axactly similar glyphs for the 2 languages.
 - The first Persian font with totally new detached glyphs. 
-- The first Persian font with 10+1 different styles.
+- The first Persian font with 12+1 different styles.
 - The first Persian font with a "Pure Persian" style, which you can wrtie Pinglish or Persian in a new way.
 - The First Persian color font, ever!
 
